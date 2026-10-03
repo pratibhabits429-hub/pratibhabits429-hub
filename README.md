@@ -1,16 +1,38 @@
-## Hi there 👋
+# Dr. Pratibha Saini
 
-<!--
-**pratibhabits429-hub/pratibhabits429-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Finance & Economics Researcher | Quantitative Finance | Econometrics | AI × Finance**
 
-Here are some ideas to get you started:
+I am a finance and economics researcher with a PhD in Economics & Finance, working at the intersection of financial markets, econometrics, behavioural finance and emerging applications of artificial intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research & Technical Interests
+
+* Quantitative finance
+* Financial-market analysis
+* Econometrics
+* Behavioural finance
+* Portfolio analysis
+* Market efficiency
+* AI × Finance
+* Sustainable and green finance
+
+## Selected Research Projects
+
+### 📊 Market Efficiency Analysis
+
+Empirical analysis of return behaviour using autocorrelation and Ljung–Box tests to examine weak-form market efficiency.
+
+### 📈 Momentum Strategy Analysis
+
+Empirical examination of winner and loser portfolios, momentum returns and statistical significance.
+
+### 📐 Empirical Finance Toolkit
+
+A collection of reproducible quantitative-finance and econometric analyses for financial-market research.
+
+## Research Areas
+
+Public Debt • Economic Growth • Natural-Resource Rents • Green Investment • Financial Decision-Making
+
+## Current Focus
+
+Exploring how quantitative methods and AI can support financial analysis, research and decision-making.
